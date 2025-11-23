@@ -21,6 +21,8 @@ Darcy Oake
 Winnipeg
 One of Canada’s most internationally recognized illusionists. Known for large-scale illusions, dove productions, and high-risk escape pieces.
 
+[Best Magicians in Canada](https://best-magician-in-canada.replit.app/)
+
 Scott Hammell
 Vancouver
 Captivates audiences with his unique blend of magic, mind-reading, and often daring stunts. Known for engaging and interactive performances.
